@@ -40,8 +40,8 @@ A Python implementation of the classic Hangman game, enhanced with dynamic word 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/SongulSCelik/hangman_game.git
-   cd hangman_game
+   git clone https://github.com/SongulSCelik/HANGMAN-GAME_VERSION2.git
+   cd HANGMAN-GAME_VERSION2
    
 Ensure you have Python 3.7 or higher installed on your machine.
 Install any dependencies (e.g., requests library):

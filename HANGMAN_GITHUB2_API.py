@@ -1,14 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
-
-
-
-# In[1]:
-
 
 '''
 🎮 Hangman Game 🎮
@@ -195,7 +184,7 @@ if __name__ == "__main__":
     mainLoop()
 
 
-# In[ ]:
+
 
 
 
